@@ -15,21 +15,6 @@ A Malie archive unpacker and repacker for Windows intended for localization and 
 
 ## Expected compatibility
 
-Malie Engine archives using the supported LIB, LIBP and LIBU formats and
-supported Camellia or CFI profiles should generally be unpackable and
-repackable with this tool.
-
-The following games should be compatible with this release:
-
-- Soushuu Senshinkan Gakuen: Bansenjin
-- Soushuu Senshinkan Gakuen: Hachimyoujin
-- Kajiri Kamui Kagura: Akebono no Hikari
-- Paradise Lost
-- Dies irae: Amantes amentes
-- Dies irae: Acta est Fabula HD
-- Silverio Vendetta: Verse of Orpheus
-## Expected compatibility
-
 Malie Engine games using LIB, LIBP or LIBU archives with a supported plaintext,
 Camellia or CFI profile should generally work with this tool.
 
